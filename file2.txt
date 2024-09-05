@@ -1,1 +1,1 @@
-this is file2.txt in remote-feature-branch
+this is file2.txt in feature-branch
